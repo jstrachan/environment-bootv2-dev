@@ -37,6 +37,7 @@ environments:
       enabled: false
       production: false
   key: staging
+  owner: cb-kubecd
   repository: environment-bootv3-staging
 - ingress:
     domain: ""
