@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: jstrachan
+  repo: v2-nodey
+  url: https://github.com/jstrachan/v2-nodey.git
+  version: ""
+  versionURL: ""
