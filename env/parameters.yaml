@@ -1,0 +1,10 @@
+adminUser:
+  password: vault:bootv2/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: jstrachan@gmail.com
+  token: vault:bootv2/pipelineUser:token
+  username: jstrachan
+prow:
+  hmacToken: vault:bootv2/prow:hmacToken
