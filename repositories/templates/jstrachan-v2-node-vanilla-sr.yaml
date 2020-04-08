@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: jstrachan
+    provider: github
+    repository: v2-node-vanilla
+  name: jstrachan-v2-node-vanilla
+spec:
+  description: Imported application for jstrachan/v2-node-vanilla
+  httpCloneURL: https://github.com/jstrachan/v2-node-vanilla.git
+  org: jstrachan
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: v2-node-vanilla
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/jstrachan/v2-node-vanilla.git
