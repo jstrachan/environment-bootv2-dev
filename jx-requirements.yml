@@ -39,6 +39,7 @@ environments:
   key: staging
   owner: cb-kubecd
   repository: environment-bootv3-staging
+  remoteCluster: true
 - ingress:
     domain: ""
     externalDNS: false
