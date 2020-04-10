@@ -11,3 +11,9 @@ dependencies:
   url: https://github.com/jstrachan/v2-node-vanilla.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: jstrachan
+  repo: v2-nodey3
+  url: https://github.com/jstrachan/v2-nodey3.git
+  version: ""
+  versionURL: ""
