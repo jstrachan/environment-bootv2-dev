@@ -88,6 +88,6 @@ velero:
   serviceAccount: bootv2-vo
   ttl: 720h0m0s
 versionStream:
-  ref: v1.0.419
+  ref: v1.0.420
   url: https://github.com/jenkins-x/jenkins-x-versions.git
 webhook: prow
