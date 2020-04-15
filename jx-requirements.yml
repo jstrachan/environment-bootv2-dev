@@ -40,6 +40,7 @@ environments:
   owner: cb-kubecd
   remoteCluster: true
   repository: environment-bootv3-staging
+  promotionStrategy: Manual
 - ingress:
     domain: ""
     externalDNS: false
