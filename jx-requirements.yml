@@ -51,6 +51,8 @@ environments:
       production: false
   key: production
   repository: environment-bootv2-production
+- key: cheese
+  remoteCluster: true
 gitops: true
 ingress:
   domain: 35.205.96.40.nip.io
